@@ -1,2 +1,2 @@
 # GitLearn
-My first repository for learning.
+My first repository for learning Git.
